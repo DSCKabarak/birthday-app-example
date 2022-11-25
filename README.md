@@ -8,8 +8,6 @@ This is a challenge to build and improve on the birthday application on [google 
 
 ## Features added
 
-- [ ]  Migrated splash screen for android 12
+- [x]  Migrated splash screen for android 12
 
 - [ ]  Add codelab ui
-
-- [ ]  Created a more cleaner app design
