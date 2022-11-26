@@ -10,4 +10,6 @@ This is a challenge to build and improve on the birthday application on [google 
 
 - [x]  Migrated splash screen for android 12
 
-- [ ]  Add codelab ui
+- [x]  Add codelab ui
+
+- [ ]  Add better festive UI, [dribbble reference](https://dribbble.com/shots/16907228-Zoom-events-covers) 
